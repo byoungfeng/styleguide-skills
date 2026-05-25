@@ -51,4 +51,4 @@ Load a skill by name when working on a matching coding task.
 
 ## Source
 
-All skills are derived from [github.com/google/styleguide](https://github.com/google/styleguide), mirrored locally at `G:\styleguide\`.
+All skills are derived from [github.com/google/styleguide](https://github.com/google/styleguide)
